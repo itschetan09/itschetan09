@@ -54,7 +54,7 @@ Currently, I'm pursuing a **Master's in Systems Engineering** at **Harrisburg Un
 ---
 
 ## 🌱 Current Goals
-- Enhancing my skills in **systems engineering** and **machine learning**  
+- Enhancing my skills in **systems engineering** and exploring **LLM frameworks** like **LangChain**  
 - Exploring advanced topics in **API security** and **microservices design**  
 - Contributing to open-source projects and collaborating with the dev community  
 
