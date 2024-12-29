@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Chetan Prajapati!
 
 🎯 **Full Stack Software Engineer**  
-📍 Maryland, United States | 🌐 [Website](https://www.chetanp.com) | [LinkedIn](https://www.linkedin.com/in/chetan-prajapati-se/) | 🛠️ [GitHub](https://github.com/itschetan09)  
+📍 Maryland, United States | 🌐 [Website](https://www.chetanp.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/chetan-prajapati-se/) | 🛠️ [GitHub](https://github.com/itschetan09)  
 
 ---
 
